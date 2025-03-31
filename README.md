@@ -33,6 +33,7 @@ result_df = process_pokemon_images(csv_filename=csv_file, image_folder=image_fol
 ## Known Issues
 - The extracted hex values are accurate, but the color name conversion may be inaccurate due to limitations in the `webcolors` library.
 - Some Pokémon images may not be found if their filenames do not match the expected format (`Num.png`).
+- Dataset is limited upto Generation VI Pokémon.
 
 ## Contributing
 If you find issues or have improvements, feel free to open a pull request or issue in the repository.
