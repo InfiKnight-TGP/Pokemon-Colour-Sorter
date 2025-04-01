@@ -1,0 +1,821 @@
+Num,Name,Colour
+1,Bulbasaur,cadetblue
+2,Ivysaur,slategrey
+3,Venusaur,cadetblue
+3-mega,Mega Venusaur,silver
+4,Charmander,darksalmon
+5,Charmeleon,indianred
+6,Charizard,darksalmon
+6-mega-x,Mega Charizard X,darkslategrey
+6-mega-y,Mega Charizard Y,darksalmon
+7,Squirtle,mediumaquamarine
+8,Wartortle,gainsboro
+9,Blastoise,dimgrey
+9-mega,Mega Blastoise,darkgrey
+10,Caterpie,darkseagreen
+11,Metapod,olivedrab
+12,Butterfree,whitesmoke
+13,Weedle,peru
+14,Kakuna,darkkhaki
+15,Beedrill,gainsboro
+15-mega,Mega Beedrill,gainsboro
+16,Pidgey,rosybrown
+17,Pidgeotto,tan
+18,Pidgeot,wheat
+18-mega,Mega Pidgeot,rosybrown
+19,Rattata,lightslategrey
+20,Raticate,sienna
+21,Spearow,indianred
+22,Fearow,sienna
+23,Ekans,grey
+24,Arbok,grey
+25,Pikachu,khaki
+25-belle,Pikachu Belle ,dimgrey
+25-libre,Pikachu Libre,khaki
+25-phd,"Pikachu, Ph.D",dimgrey
+25-pop-star,Pikachu Pop Star,rosybrown
+25-rock-star,Pikachu Rock Star,darkslategrey
+26,Raichu,darkkhaki
+27,Sandshrew,darkkhaki
+28,Sandslash,saddlebrown
+29,Nidoranâ♀️,gainsboro
+30,Nidorina,cadetblue
+31,Nidoqueen,lightslategrey
+32,Nidoranâ♂️,grey
+33,Nidorino,lightslategrey
+34,Nidoking,rosybrown
+35,Clefairy,pink
+36,Clefable,gainsboro
+37,Vulpix,rosybrown
+38,Ninetales,palegoldenrod
+39,Jigglypuff,pink
+40,Wigglytuff,mistyrose
+41,Zubat,grey
+42,Golbat,rosybrown
+43,Oddish,forestgreen
+44,Gloom,lightslategrey
+45,Vileplume,indianred
+46,Paras,peru
+47,Parasect,rosybrown
+48,Venonat,slategrey
+49,Venomoth,gainsboro
+50,Diglett,rosybrown
+51,Dugtrio,grey
+52,Meowth,bisque
+53,Persian,wheat
+54,Psyduck,burlywood
+55,Golduck,cadetblue
+56,Mankey,gainsboro
+57,Primeape,rosybrown
+58,Growlithe,tan
+59,Arcanine,tan
+60,Poliwag,lightslategrey
+61,Poliwhirl,lightslategrey
+62,Poliwrath,lightslategrey
+63,Abra,khaki
+64,Kadabra,darkkhaki
+65,Alakazam,khaki
+65-mega,Mega Alakazam,gainsboro
+66,Machop,lightsteelblue
+67,Machoke,silver
+68,Machamp,silver
+69,Bellsprout,darkseagreen
+70,Weepinbell,darkseagreen
+71,Victreebel,darkseagreen
+72,Tentacool,skyblue
+73,Tentacruel,lightslategrey
+74,Geodude,darkgrey
+75,Graveler,silver
+76,Golem,darkslategrey
+77,Ponyta,bisque
+78,Rapidash,sandybrown
+79,Slowpoke,lightpink
+80,Slowbro,rosybrown
+80-mega,Mega Slowbro,rosybrown
+81,Magnemite,darkgrey
+82,Magneton,darkgrey
+83,Farfetch'd,rosybrown
+84,Doduo,grey
+85,Dodrio,grey
+86,Seel,gainsboro
+87,Dewgong,lavender
+88,Grimer,grey
+89,Muk,darkgrey
+90,Shellder,silver
+91,Cloyster,darkslategrey
+92,Gastly,grey
+93,Haunter,lightslategrey
+94,Gengar,slategrey
+94-mega,Mega Gengar,darkslategrey
+95,Onix,darkslategrey
+96,Drowzee,sandybrown
+97,Hypno,sandybrown
+98,Krabby,darksalmon
+99,Kingler,peru
+100,Voltorb,lightgrey
+101,Electrode,whitesmoke
+102,Exeggcute,gainsboro
+103,Exeggutor,grey
+104,Cubone,lightgrey
+105,Marowak,lightgrey
+106,Hitmonlee,rosybrown
+107,Hitmonchan,silver
+108,Lickitung,pink
+109,Koffing,silver
+110,Weezing,silver
+111,Rhyhorn,darkgrey
+112,Rhydon,lightslategrey
+113,Chansey,mistyrose
+114,Tangela,cadetblue
+115,Kangaskhan,rosybrown
+115-mega,Mega Kangaskhan,silver
+116,Horsea,skyblue
+117,Seadra,skyblue
+118,Goldeen,lavender
+119,Seaking,gainsboro
+120,Staryu,dimgrey
+121,Starmie,lightslategrey
+122,Mr. Mime,rosybrown
+123,Scyther,darkseagreen
+124,Jynx,indianred
+125,Electabuzz,grey
+126,Magmar,indianred
+127,Pinsir,dimgrey
+127-mega,Mega Pinsir,wheat
+128,Tauros,darkkhaki
+129,Magikarp,sandybrown
+130,Gyarados,steelblue
+130-mega,Mega Gyarados,darkslategrey
+131,Lapras,cornflowerblue
+132,Ditto,thistle
+133,Eevee,peru
+134,Vaporeon,skyblue
+135,Jolteon,burlywood
+136,Flareon,burlywood
+137,Porygon,slategrey
+138,Omanyte,lightgrey
+139,Omastar,silver
+140,Kabuto,peru
+141,Kabutops,grey
+142,Aerodactyl,darkgrey
+142-mega,Mega Aerodactyl,darkslategrey
+143,Snorlax,lightgrey
+144,Articuno,lightsteelblue
+145,Zapdos,khaki
+146,Moltres,burlywood
+147,Dratini,darkgrey
+148,Dragonair,skyblue
+149,Dragonite,darksalmon
+150,Mewtwo,rosybrown
+150-mega-x,Mega Mewtwo X,gainsboro
+150-mega-y,Mega Mewtwo Y,rosybrown
+151,Mew,pink
+152,Chikorita,darkseagreen
+153,Bayleef,darkkhaki
+154,Meganium,silver
+155,Cyndaquil,peru
+156,Quilava,peru
+157,Typhlosion,burlywood
+158,Totodile,cadetblue
+159,Croconaw,dimgrey
+160,Feraligatr,skyblue
+161,Sentret,rosybrown
+162,Furret,dimgrey
+163,Hoothoot,rosybrown
+164,Noctowl,darkslategrey
+165,Ledyba,wheat
+166,Ledian,lightgrey
+167,Spinarak,tan
+168,Ariados,grey
+169,Crobat,lightslategrey
+170,Chinchou,lightslategrey
+171,Lanturn,lightslategrey
+172,Pichu,palegoldenrod
+173,Cleffa,peachpuff
+174,Igglybuff,mistyrose
+175,Togepi,bisque
+176,Togetic,beige
+177,Natu,darkkhaki
+178,Xatu,darkkhaki
+179,Mareep,tan
+180,Flaaffy,thistle
+181,Ampharos,sandybrown
+181-mega,Mega Ampharos,tan
+182,Bellossom,peru
+183,Marill,cornflowerblue
+184,Azumarill,steelblue
+185,Sudowoodo,rosybrown
+186,Politoed,darkkhaki
+187,Hoppip,palevioletred
+188,Skiploom,yellowgreen
+189,Jumpluff,wheat
+190,Aipom,rosybrown
+191,Sunkern,burlywood
+192,Sunflora,darkseagreen
+193,Yanma,peru
+194,Wooper,lightsteelblue
+195,Quagsire,lightslategrey
+196,Espeon,thistle
+197,Umbreon,darkslategrey
+198,Murkrow,darkslategrey
+199,Slowking,rosybrown
+200,Misdreavus,darkslategrey
+201-f,Unown,dimgrey
+202,Wobbuffet,cornflowerblue
+203,Girafarig,sandybrown
+204,Pineco,darkslategrey
+205,Forretress,saddlebrown
+206,Dunsparce,khaki
+207,Gligar,plum
+208,Steelix,slategrey
+208-mega,Mega Steelix,lightslategrey
+209,Snubbull,lightpink
+210,Granbull,thistle
+211,Qwilfish,tan
+212,Scizor,sienna
+212-mega,Mega Scizor,indianred
+213,Shuckle,sandybrown
+214,Heracross,steelblue
+214-mega,Mega Heracross,darkslateblue
+215,Sneasel,slategrey
+216,Teddiursa,peru
+217,Ursaring,sienna
+218,Slugma,indianred
+219,Magcargo,indianred
+220,Swinub,rosybrown
+221,Piloswine,indianred
+222,Corsola,lightpink
+223,Remoraid,silver
+224,Octillery,indianred
+225,Delibird,sienna
+226,Mantine,darkgrey
+227,Skarmory,sienna
+228,Houndour,darkslategrey
+229,Houndoom,darkslategrey
+229-mega,Mega Houndoom,darkslategrey
+230,Kingdra,cadetblue
+231,Phanpy,lightblue
+232,Donphan,darkslategrey
+233,Porygon2,indianred
+234,Stantler,tan
+235,Smeargle,antiquewhite
+236,Tyrogue,thistle
+237,Hitmontop,rosybrown
+238,Smoochum,palegoldenrod
+239,Elekid,khaki
+240,Magby,indianred
+241,Miltank,peachpuff
+242,Blissey,lightpink
+243,Raikou,silver
+244,Entei,saddlebrown
+245,Suicune,darkgrey
+246,Larvitar,grey
+247,Pupitar,lightsteelblue
+248,Tyranitar,darkseagreen
+248-mega,Mega Tyranitar,dimgrey
+249,Lugia,whitesmoke
+250,Ho-oh,chocolate
+251,Celebi,gainsboro
+252,Treecko,grey
+253,Grovyle,darkseagreen
+254,Sceptile,darkseagreen
+254-mega,Mega Sceptile,dimgrey
+255,Torchic,peru
+256,Combusken,rosybrown
+257,Blaziken,khaki
+257-mega,Mega Blaziken,peru
+258,Mudkip,skyblue
+259,Marshtomp,skyblue
+260,Swampert,dimgrey
+260-mega,Mega Swampert,darkslategrey
+261,Poochyena,silver
+262,Mightyena,darkslategrey
+263,Zigzagoon,rosybrown
+264,Linoone,lightgrey
+265,Wurmple,lightgrey
+266,Silcoon,lavender
+267,Beautifly,dimgrey
+268,Cascoon,gainsboro
+269,Dustox,darkkhaki
+270,Lotad,grey
+271,Lombre,silver
+272,Ludicolo,darkseagreen
+273,Seedot,grey
+274,Nuzleaf,silver
+275,Shiftry,grey
+276,Taillow,darkslategrey
+277,Swellow,darkslategrey
+278,Wingull,whitesmoke
+279,Pelipper,khaki
+280,Ralts,dimgrey
+281,Kirlia,darkseagreen
+282,Gardevoir,whitesmoke
+282-mega,Mega Gardevoir,whitesmoke
+283,Surskit,skyblue
+284,Masquerain,lavender
+285,Shroomish,wheat
+286,Breloom,rosybrown
+287,Slakoth,lightgrey
+288,Vigoroth,whitesmoke
+289,Slaking,darkgrey
+290,Nincada,lavender
+291,Ninjask,lavender
+292,Shedinja,darkkhaki
+293,Whismur,thistle
+294,Loudred,darkgrey
+295,Exploud,darkgrey
+296,Makuhita,palegoldenrod
+297,Hariyama,khaki
+298,Azurill,cornflowerblue
+299,Nosepass,lightslategrey
+300,Skitty,lightpink
+301,Delcatty,rosybrown
+302,Sableye,lightslategrey
+302-mega,Mega Sableye,indianred
+303,Mawile,dimgrey
+303-mega,Mega Mawile,dimgrey
+304,Aron,gainsboro
+305,Lairon,gainsboro
+306,Aggron,darkslategrey
+306-mega,Mega Aggron,darkgrey
+307,Meditite,lavender
+308,Medicham,palevioletred
+308-mega,Mega Medicham,gainsboro
+309,Electrike,darkseagreen
+310,Manectric,tan
+310-mega,Mega Manectric,khaki
+311,Plusle,wheat
+312,Minun,palegoldenrod
+313,Volbeat,lightsteelblue
+314,Illumise,lightsteelblue
+315,Roselia,cadetblue
+316,Gulpin,silver
+317,Swalot,lightslategrey
+318,Carvanha,burlywood
+319,Sharpedo,teal
+319-mega,Mega Sharpedo,darkslategrey
+320,Wailmer,bisque
+321,Wailord,silver
+322,Numel,khaki
+323,Camerupt,darksalmon
+323-mega,Mega Camerupt,darksalmon
+324,Torkoal,lightgrey
+325,Spoink,silver
+326,Grumpig,silver
+327,Spinda,lightgrey
+328,Trapinch,darksalmon
+329,Vibrava,grey
+330,Flygon,silver
+331,Cacnea,grey
+332,Cacturne,darkseagreen
+333,Swablu,ghostwhite
+334,Altaria,lavender
+334-mega,Mega Altaria,whitesmoke
+335,Zangoose,lavender
+336,Seviper,dimgrey
+337,Lunatone,tan
+338,Solrock,burlywood
+339,Barboach,silver
+340,Whiscash,darkslategrey
+341,Corphish,peru
+342,Crawdaunt,indianred
+343,Baltoy,tan
+344,Claydol,darkslategrey
+345,Lileep,lightpink
+346,Cradily,darkseagreen
+347,Anorith,rosybrown
+348,Armaldo,lightslategrey
+349,Feebas,silver
+350,Milotic,gainsboro
+351,Castform,lightgrey
+352,Kecleon,darkkhaki
+353,Shuppet,lightslategrey
+354,Banette,grey
+354-mega,Mega Banette,darkslategrey
+355,Duskull,darkgrey
+356,Dusclops,silver
+357,Tropius,grey
+358,Chimecho,gainsboro
+359,Absol,lavender
+359-mega,Mega Absol,whitesmoke
+360,Wynaut,skyblue
+361,Snorunt,wheat
+362,Glalie,gainsboro
+362-mega,Mega Glalie,darkslategrey
+363,Spheal,antiquewhite
+364,Sealeo,gainsboro
+365,Walrein,cadetblue
+366,Clamperl,lightsteelblue
+367,Huntail,skyblue
+368,Gorebyss,pink
+369,Relicanth,rosybrown
+370,Luvdisc,rosybrown
+371,Bagon,skyblue
+372,Shelgon,lavender
+373,Salamence,sienna
+373-mega,Mega Salamence,sienna
+374,Beldum,cadetblue
+375,Metang,slategrey
+376,Metagross,slategrey
+376-mega,Mega Metagross,slategrey
+377,Regirock,rosybrown
+378,Regice,mediumaquamarine
+379,Registeel,grey
+380,Latias,rosybrown
+380-mega,Mega Latias,dimgrey
+381,Latios,steelblue
+381-mega,Mega Latios,dimgrey
+382,Kyogre,steelblue
+382-primal,Primal Kyogre,darkslateblue
+383,Groudon,brown
+383-primal,Primal Groudon,darkslategrey
+384,Rayquaza,seagreen
+384-mega,Mega Rayquaza,darkslategrey
+385,Jirachi,khaki
+386-normal,Deoxys Normal Forme,peru
+386-attack,Deoxys Attack Forme,peru
+386-defense,Deoxys Defense Forme,darksalmon
+386-speed,Deoxys Speed Forme,darkslategrey
+387,Turtwig,darkkhaki
+388,Grotle,darkolivegreen
+389,Torterra,dimgrey
+390,Chimchar,palegoldenrod
+391,Monferno,dimgrey
+392,Infernape,peru
+393,Piplup,silver
+394,Prinplup,darkslateblue
+395,Empoleon,darkslategrey
+396,Starly,darkslategrey
+397,Staravia,darkslategrey
+398,Staraptor,darkslategrey
+399,Bidoof,peru
+400,Bibarel,peru
+401,Kricketot,dimgrey
+402,Kricketune,indianred
+403,Shinx,mediumaquamarine
+404,Luxio,darkslategrey
+405,Luxray,darkslategrey
+406,Budew,darkseagreen
+407,Roserade,lightslategrey
+408,Cranidos,slategrey
+409,Rampardos,darkslategrey
+410,Shieldon,grey
+411,Bastiodon,grey
+412-plant,Burmy Plant Cloak,olivedrab
+412-sandy,Burmy Sandy Cloak,dimgrey
+412-trash,Burmy  Trash Cloak,dimgrey
+413-plant,Wormadam Plant Cloak,dimgrey
+413-sandy,Wormadam Sandy Cloak,tan
+413-trash,Wormadam Trash Cloak,palevioletred
+414,Mothim,khaki
+415,Combee,sandybrown
+416,Vespiquen,darkolivegreen
+417,Pachirisu,aliceblue
+418,Buizel,peru
+419,Floatzel,peru
+420,Cherubi,palevioletred
+421-overcast,Cherrim Overcast,grey
+421-sunshine,Cherrim Sunshine,wheat
+422-east,Shellos Eastcoast,mediumturquoise
+422-west,Shellos Westcoast,rosybrown
+423-east,Gastrodon Eastcoast,darkolivegreen
+423-west,Gastrodon Westcoast,tan
+424,Ambipom,grey
+425,Drifloon,darkgrey
+426,Drifblim,grey
+427,Buneary,peru
+428,Lopunny,palegoldenrod
+428-mega,Mega Lopunny,darkolivegreen
+429,Mismagius,slategrey
+430,Honchkrow,darkslategrey
+431,Glameow,lightslategrey
+432,Purugly,darkgrey
+433,Chingling,sandybrown
+434,Stunky,dimgrey
+435,Skuntank,dimgrey
+436,Bronzor,darkslategrey
+437,Bronzong,slategrey
+438,Bonsly,darkkhaki
+439,Mime Jr.,grey
+440,Happiny,mistyrose
+441,Chatot,darkslategrey
+442,Spiritomb,silver
+443,Gible,lightslategrey
+444,Gabite,lightslategrey
+445,Garchomp,slategrey
+445-mega,Mega Garchomp,darkslategrey
+446,Munchlax,lightslategrey
+447,Riolu,dimgrey
+448,Lucario,dimgrey
+448-mega,Mega Lucario,grey
+449,Hippopotas,darkkhaki
+450,Hippowdon,rosybrown
+451,Skorupi,lightslategrey
+452,Drapion,dimgrey
+453,Croagunk,lightslategrey
+454,Toxicroak,cadetblue
+455,Carnivine,grey
+456,Finneon,darkslategrey
+457,Lumineon,darkslategrey
+458,Mantyke,lightsteelblue
+459,Snover,dimgrey
+460,Abomasnow,dimgrey
+460-mega,Mega Abomasnow,whitesmoke
+461,Weavile,darkslategrey
+462,Magnezone,dimgrey
+463,Lickilicky,darksalmon
+464,Rhyperior,dimgrey
+465,Tangrowth,lightslategrey
+466,Electivire,darkslategrey
+467,Magmortar,indianred
+468,Togekiss,darkgrey
+469,Yanmega,darkolivegreen
+470,Leafeon,darkseagreen
+471,Glaceon,lightblue
+472,Gliscor,darkslategrey
+473,Mamoswine,darkolivegreen
+474,Porygon-Z,cadetblue
+475,Gallade,darkolivegreen
+475-mega,Mega Gallade,darkgrey
+476,Probopass,darkslategrey
+477,Dusknoir,dimgrey
+478,Froslass,silver
+479,Rotom,powderblue
+479-heat,Heat Rotom,indianred
+479-wash,Wash Rotom,cadetblue
+479-frost,Frost Rotom,peru
+479-fan,Fan Rotom,khaki
+479-mow,Mow Rotom,darkkhaki
+480,Uxie,darkgrey
+481,Mesprit,rosybrown
+482,Azelf,cadetblue
+483,Dialga,darkslategrey
+484,Palkia,gainsboro
+485,Heatran,darkolivegreen
+486,Regigigas,darkkhaki
+487-altered,Giratina Altered Forme,darkslategrey
+487-origin,Giratina Origin Forme,darkslategrey
+488,Cresselia,silver
+489,Phione,cadetblue
+490,Manaphy,mediumturquoise
+491,Darkrai,darkslategrey
+492-land,Shaymin Land Forme,darkkhaki
+492-sky,Shaymin Sky Forme,tan
+493-normal,Arceus,darkolivegreen
+494,Victini,darksalmon
+495,Snivy,mediumseagreen
+496,Servine,darkolivegreen
+497,Serperior,seagreen
+498,Tepig,peru
+499,Pignite,peru
+500,Emboar,darkslategrey
+501,Oshawott,whitesmoke
+502,Dewott,lightsteelblue
+503,Samurott,slategrey
+504,Patrat,peru
+505,Watchog,saddlebrown
+506,Lillipup,rosybrown
+507,Herdier,darkslategrey
+508,Stoutland,dimgrey
+509,Purrloin,grey
+510,Liepard,dimgrey
+511,Pansage,cadetblue
+512,Simisage,mediumseagreen
+513,Pansear,indianred
+514,Simisear,darksalmon
+515,Panpour,khaki
+516,Simipour,mediumturquoise
+517,Munna,mistyrose
+518,Musharna,rosybrown
+519,Pidove,rosybrown
+520,Tranquill,rosybrown
+521,Unfezant ♂️,darkslategrey
+521f,Unfezant ♀️,darkolivegreen
+522,Blitzle,darkslategrey
+523,Zebstrika,darkslategrey
+524,Roggenrola,darkslategrey
+525,Boldore,darkslategrey
+526,Gigalith,dimgrey
+527,Woobat,darkslategrey
+528,Swoobat,darkslategrey
+529,Drilbur,dimgrey
+530,Excadrill,darkslategrey
+531,Audino,tan
+531-mega,Mega Audino,linen
+532,Timburr,silver
+533,Gurdurr,silver
+534,Conkeldurr,darkgrey
+535,Tympole,wheat
+536,Palpitoad,silver
+537,Seismitoad,steelblue
+538,Throh,rosybrown
+539,Sawk,slategrey
+540,Sewaddle,olivedrab
+541,Swadloon,yellowgreen
+542,Leavanny,yellowgreen
+543,Venipede,indianred
+544,Whirlipede,darkslategrey
+545,Scolipede,dimgrey
+546,Cottonee,beige
+547,Whimsicott,beige
+548,Petilil,tan
+549,Lilligant,darkkhaki
+550-blue-striped,Basculin Blue Striped,mediumseagreen
+550-red-striped,Basculin Blue Striped,darkslategrey
+551,Sandile,tan
+552,Krokorok,tan
+553,Krookodile,grey
+554,Darumaka,sienna
+555-standard,Darmanitan Standard Mode,sienna
+556,Maractus,darkseagreen
+557,Dwebble,dimgrey
+558,Crustle,rosybrown
+559,Scraggy,burlywood
+560,Scrafty,peru
+561,Sigilyph,darkslategrey
+562,Yamask,darkslategrey
+563,Cofagrigus,darkslategrey
+564,Tirtouga,slategrey
+565,Carracosta,slategrey
+566,Archen,burlywood
+567,Archeops,darkkhaki
+568,Trubbish,grey
+569,Garbodor,dimgrey
+570,Zorua,dimgrey
+571,Zoroark,darkslategrey
+572,Minccino,gainsboro
+573,Cinccino,lightgrey
+574,Gothita,darkgrey
+575,Gothorita,darkslategrey
+576,Gothitelle,darkslategrey
+577,Solosis,darkseagreen
+578,Duosion,darkseagreen
+579,Reuniclus,darkseagreen
+580,Ducklett,powderblue
+581,Swanna,whitesmoke
+582,Vanillite,aliceblue
+583,Vanillish,lavender
+584,Vanilluxe,lavender
+585-autumn,Deerling Autumn,peru
+585-spring,Deerling Spring,tan
+585-summer,Deerling  Summer,darkolivegreen
+585-winter,Deerling Winter,rosybrown
+586-autumn,Sawsbuck Autumn,sienna
+586-spring,Sawsbuck Spring,sienna
+586-summer,Sawsbuck Summer,seagreen
+586-winter,Sawsbuck Winter,darkolivegreen
+587,Emolga,darkslategrey
+588,Karrablast,dimgrey
+589,Escavalier,grey
+590,Foongus,linen
+591,Amoonguss,darkslategrey
+592,Frillish ♂️,powderblue
+592f,Frillish ♀️,mistyrose
+593,Jellicent ♂️,lavender
+593f,Jellicent ♀️,mistyrose
+594,Alomomola,rosybrown
+595,Joltik,khaki
+596,Galvantula,khaki
+597,Ferroseed,grey
+598,Ferrothorn,grey
+599,Klink,darkslategrey
+600,Klang,darkgrey
+601,Klinklang,silver
+602,Tynamo,whitesmoke
+603,Eelektrik,darkslategrey
+604,Eelektross,dimgrey
+605,Elgyem,lightblue
+606,Beheeyem,tan
+607,Litwick,lightsteelblue
+608,Lampent,darkslategrey
+609,Chandelure,darkslategrey
+610,Axew,darkseagreen
+611,Fraxure,grey
+612,Haxorus,darkslategrey
+613,Cubchoo,lightblue
+614,Beartic,lavender
+615,Cryogonal,lightslategrey
+616,Shelmet,silver
+617,Accelgor,lightslategrey
+618,Stunfisk,rosybrown
+619,Mienfoo,dimgrey
+620,Mienshao,gainsboro
+621,Druddigon,teal
+622,Golett,dimgrey
+623,Golurk,dimgrey
+624,Pawniard,dimgrey
+625,Bisharp,dimgrey
+626,Bouffalant,darkolivegreen
+627,Rufflet,antiquewhite
+628,Braviary,darkslategrey
+629,Vullaby,darkslategrey
+630,Mandibuzz,darkslategrey
+631,Heatmor,indianred
+632,Durant,dimgrey
+633,Deino,dimgrey
+634,Zweilous,darkslategrey
+635,Hydreigon,darkslategrey
+636,Larvesta,rosybrown
+637,Volcarona,salmon
+638,Cobalion,lightseagreen
+639,Terrakion,grey
+640,Virizion,darkkhaki
+641-incarnate,Tornadus Incarnate Forme,grey
+641-therian,Tornadus Therian Forme,grey
+642-incarnate,Thundurus Incarnate Forme,lightslategrey
+642-therian,Thundurus Therian Forme,darkslateblue
+643,Reshiram,lavender
+644,Zekrom,darkslategrey
+645-incarnate,Landorus Incarnate Forme,dimgrey
+645-therian,Landorus Therian Forme,rosybrown
+646,Kyurem,dimgrey
+646-black,Black Kyurem,darkslategrey
+646-white,White Kyurem,darkgrey
+647-ordinary,Keldeo Ordinary Forme,lightgrey
+647-resolute,Keldeo Resolute Forme,silver
+648,Meloetta Aria Forme,gainsboro
+648-pirouette,Meloetta Pirouette Forme,rosybrown
+649,Genesect,dimgrey
+650,Chespin,darkkhaki
+651,Quilladin,darkolivegreen
+652,Chesnaught,darkseagreen
+653,Fennekin,peru
+654,Braixen,palegoldenrod
+655,Delphox,sienna
+656,Froakie,mediumturquoise
+657,Frogadier,steelblue
+658,Greninja,darkslategrey
+659,Bunnelby,darkolivegreen
+660,Diggersby,silver
+661,Fletchling,darkslategrey
+662,Fletchinder,darkslategrey
+663,Talonflame,darkslategrey
+664,Scatterbug,grey
+665,Spewpa,whitesmoke
+666,Meadow Pattern Vivillon,plum
+666-elegant,Elegant Pattern Vivillon,darkslateblue
+667,Litleo,darkslategrey
+668,Pyroar ♂️,sienna
+668f,Pyroar ♀️,darkslategrey
+669,Flabébé,darksalmon
+670,Floette,sienna
+671,Florges,teal
+672,Skiddo,dimgrey
+673,Gogoat,dimgrey
+674,Pancham,darkslategrey
+675,Pangoro,dimgrey
+676,Furfrou,beige
+676,Furfrou Natural Form,beige
+676-diamond,Furfrou Diamond Trim,darkkhaki
+676-heart,Furfrou Heart Trim,rosybrown
+676-star,Furfrou Star Trim,darkgrey
+677,Espurr,darkgrey
+678,Meowstic ♂️,darkslateblue
+678f,Meowstic ♀️,ghostwhite
+679,Honedge,darkslategrey
+680,Doublade,grey
+681,Aegislash,rosybrown
+681-blade,Aegislash Blade Forme,darkkhaki
+681-shield,Aegislash Shield Forme,grey
+682,Spritzee,darksalmon
+683,Aromatisse,rosybrown
+684,Swirlix,ghostwhite
+685,Slurpuff,thistle
+686,Inkay,lightslategrey
+687,Malamar,lightslategrey
+688,Binacle,dimgrey
+689,Barbaracle,darkslategrey
+690,Skrelp,sienna
+691,Dragalge,sienna
+692,Clauncher,skyblue
+693,Clawitzer,darkcyan
+694,Helioptile,khaki
+695,Heliolisk,darkolivegreen
+696,Tyrunt,grey
+697,Tyrantrum,indianred
+698,Amaura,lightblue
+699,Aurorus,darkgrey
+700,Sylveon,whitesmoke
+701,Hawlucha,dimgrey
+702,Dedenne,goldenrod
+703,Carbink,darkgrey
+704,Goomy,gainsboro
+705,Sliggoo,darkgrey
+706,Goodra,gainsboro
+707,Klefki,darkslategrey
+708,Phantump,dimgrey
+709,Trevenant,dimgrey
+710,Pumpkaboo,darkolivegreen
+711,Gourgeist,darkolivegreen
+712,Bergmite,lavender
+713,Avalugg,lavender
+714,Noibat,grey
+715,Noivern,darkslategrey
+716,Xerneas,darkslategrey
+717,Yveltal,darkslategrey
+718,Zygarde 50% Forme,darkslategrey
+719,Diancie,silver
+719-mega,Mega Diancie,whitesmoke
+720,Hoopa Confined,dimgrey
+720-unbound,Hoopa Unbound,grey
+721,Volcanion,saddlebrown
